@@ -55,3 +55,59 @@ The system demonstrates core software engineering concepts such as:
 
 ## 📁 Project Structure
 
+
+## 📷 Application Screenshots
+
+### 🏛️ Civic Platform Overview
+![Civic Platform](Screenshot%202026-04-07%20150412.png)
+
+---
+
+### 🔐 Login / Entry Screen
+![Login Screen](Screenshot%202026-04-07%20150438.png)
+
+---
+
+### 🏦 Banking Module - Dashboard
+![Banking Dashboard](Screenshot%202026-04-07%20150449.png)
+
+---
+
+### 💰 Banking - Create Account
+![Create Account](Screenshot%202026-04-07%20150500.png)
+
+---
+
+### 💳 Banking - Deposit / Withdraw
+![Transactions](Screenshot%202026-04-07%20150525.png)
+
+---
+
+### 💼 Job Portal Module
+![Job Portal](Screenshot%202026-04-07%20150554.png)
+
+---
+
+### 📄 Documents Module
+![Documents](Screenshot%202026-04-07%20150605.png)
+
+---
+
+### 🧭 Navigation / Dashboard View
+![Dashboard Navigation](Screenshot%202026-04-07%20150617.png)
+
+---
+
+### ⚙️ System Features View
+![System Features](Screenshot%202026-04-07%20150633.png)
+
+---
+
+### 🧾 Account Summary View
+![Account Summary](Screenshot%202026-04-07%20150651.png)
+
+---
+
+### 🧠 Full System Overview
+![Full System](Screenshot%202026-04-07%20150700.png)
+
