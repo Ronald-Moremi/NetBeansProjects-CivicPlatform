@@ -108,5 +108,10 @@ The system demonstrates core software engineering concepts such as:
 
 ---
 
+
+AUthor 
+
+Ronald Lesego Moremi
+
 ### 🧠 Full System View
 ![Full System](Civic_Platform_Screenshots/Screenshot%202026-04-07%20150700.png)
